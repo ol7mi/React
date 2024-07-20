@@ -1,0 +1,4 @@
+.container{border: 1px solid #000; width: 500px; margin: 0 auto;}
+.contents{background-color: pink; width: 100%;}
+.contents, td,th,tr{border: 1px solid white;}
+.searchBox{width: 65%;}
